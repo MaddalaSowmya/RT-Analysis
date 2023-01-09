@@ -1,2 +1,3 @@
 ticket count
 response time
+resolution time
